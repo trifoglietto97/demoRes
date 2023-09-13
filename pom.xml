@@ -20,8 +20,8 @@
             <url>https://maven.pkg.github.com/trifoglietto97/demoRes</url>
         </repository>
     </distributionManagement>
-    <name>demoRes</name>
-    <description>demoRes</description>
+
+
     <properties>
         <java.version>17</java.version>
     </properties>
